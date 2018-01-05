@@ -1,0 +1,5 @@
+authenticated.users=[{"token"\:"0e586585-98e3-4be9-9f1c-68d75f931892","userId"\:"surajk","refreshToken"\:"","baseUrl"\:"https\://anypoint.mulesoft.com/"}]
+current.token=0e586585-98e3-4be9-9f1c-68d75f931892
+current.user=surajk
+eclipse.preferences.version=1
+org.mule.tooling.amc.apps={"userProjectMap"\:{"surajk"\:{"orchard_new"\:"{\\"applicationName\\"\:\\"orchard\\",\\"muleRuntime\\"\:\\"3.8.5\\",\\"properties\\"\:{}}"}}}

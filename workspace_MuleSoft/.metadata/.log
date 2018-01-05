@@ -1,0 +1,53 @@
+!SESSION 2018-01-05 11:00:39.642 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_102
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.mule.tooling.core 1 0 2018-01-05 11:00:53.324
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\M1043089\.m2\repository
+
+!ENTRY org.mule.tooling.core 1 0 2018-01-05 11:00:53.330
+!MESSAGE Configuring M2_REPO variable with value: C:\Users\M1043089\.m2\repository
+
+!ENTRY org.mule.tooling.core 1 0 2018-01-05 11:01:05.747
+!MESSAGE Generating unique Studio Id = STUDIO-2520b8d7-483b-43db-8496-5f97dae2b2e5-15151302657452055
+
+!ENTRY org.mule.tooling.core 1 0 2018-01-05 11:01:05.749
+!MESSAGE Generating unique Studio Id = STUDIO-2520b8d7-483b-43db-8496-5f97dae2b2e5-15151302657452055
+
+!ENTRY org.mule.tooling.core 2 0 2018-01-05 11:02:38.927
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.mule.tooling.core 2 0 2018-01-05 11:02:38.936
+!MESSAGE Authenticator was changed to class org.mule.tooling.utils.networking.ProxyAuthenticator. Restoring default authenticator to null
+
+!ENTRY org.eclipse.jface 2 0 2018-01-05 11:02:42.820
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2018-01-05 11:02:42.820
+!MESSAGE A conflict occurred for CTRL+F:
+Binding(CTRL+F,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.findReplace,Find and Replace,
+		Find and replace text,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5790cbcb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F,
+	ParameterizedCommand(Command(org.mule.tooling.ui.dfl.contribution.commands.searchCommand,Find/Replace,
+		Find/Replace,
+		Category(org.mule.tooling.ui.commandcategory,org.mule.tooling.ui.commandcategory,Category for menu commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@763a46fe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.mule.tooling.contexts.mulePropertiesEditor,,,system)
+Binding(CTRL+F,
+	ParameterizedCommand(Command(org.mule.tooling.commands.focusSearchCommand,Focus Search Command,
+		Focus Search in Palette,
+		Category(org.mule.tooling.ui.commandcategory,org.mule.tooling.ui.commandcategory,Category for menu commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@106361e9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.mule.tooling.contexts.mulePropertiesEditor,,,system)

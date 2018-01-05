@@ -1,0 +1,12 @@
+package com.SoapServices;
+
+import javax.jws.WebService;
+
+import org.mule.api.MuleEventContext;
+@WebService
+public interface Interface_Orchard {
+
+	public void getAlLminds();
+	public void getAllLeads();
+	public void getMindById();
+}

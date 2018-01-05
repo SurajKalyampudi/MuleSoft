@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;orchard_new/src/main/app/jj.xml&apos; to &apos;basicJavaComponent.xml&apos;" description="Rename resource &apos;jj.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/app/jj.xml" name="basicJavaComponent.xml" stamp="1514456596007" updateReferences="true"/>
+</session>
